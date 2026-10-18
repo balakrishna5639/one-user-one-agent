@@ -1,0 +1,21 @@
+{
+  "total_decisions": 2679,
+  "total_actions": 1298,
+  "latency_ms": {
+    "min": 0,
+    "max": 77,
+    "mean": 8.817469204927212,
+    "p50": 5,
+    "p95": 28,
+    "p99": 37
+  },
+  "sla_violations": {
+    "late_decisions_over_60s": 0,
+    "timeout_failures_over_300s": 0
+  },
+  "resource_budget": {
+    "max_model_calls_per_decision": 8,
+    "max_tool_calls_per_decision": 20,
+    "budget_breaches": 0
+  }
+}
