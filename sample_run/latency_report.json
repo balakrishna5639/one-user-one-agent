@@ -3,11 +3,11 @@
   "total_actions": 1298,
   "latency_ms": {
     "min": 0,
-    "max": 77,
-    "mean": 8.817469204927212,
-    "p50": 5,
-    "p95": 28,
-    "p99": 37
+    "max": 39,
+    "mean": 4.64762971257932,
+    "p50": 2,
+    "p95": 14,
+    "p99": 19
   },
   "sla_violations": {
     "late_decisions_over_60s": 0,
